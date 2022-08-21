@@ -61,4 +61,4 @@ It appears that all job titles have a very similar average salaries.  This seems
 
 * PH_employee_analysis_queries.sql:  `.sql` file of queries for exploring the data as mentioned above.
 
-* XXXXXXXXXXXXX: Jupyter notebook containing statistical analysis of data.
+* PH_employee_research.ipynb: Jupyter notebook containing statistical analysis of data.
