@@ -46,11 +46,12 @@ Queries were created to review the following information:
 As I examined the data, there were some inconsistencies and oddities that made me concerned that the data was not accurate. Further analysis was required to ascertain if the data could be trusted.
 
 #### Deeper Analysis
- 
+ I used Python to access the SQL database to evaluate some of the data points, creating a bar graph showing average salary by title and a histogram showing the salary distribution.
 
 #### Findings
+The distribution of salaries showed that there was a very large volume of employees at the low end of the pay scale.  It also showed that the number of employees drastically drops off as the salaries get higher.  This on its own doesn't seem to prove any issues in the data, because that would appear to be a normal distribution for a large company.  However, it does seem like an inorditante amount of employees right at the low $40k salary amount.  
 
-
+It appears that all job titles have a very similar average salaries.  This seems odd being that some job titles should have had higher starting points and then should have had a larger spread in the averages.  Particularly telling is the average salary for "Senior Staff" being the same as the average salary for "Staff".
 
 ## Repo Contents
 
